@@ -1,0 +1,28 @@
+{
+  "citations": [
+    "[techcrunch.com](https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/)",
+    "[super.work](https://super.work/blog/how-do-mcps-compare-against-a-dedicated-company-search-agent)",
+    "[rohitraj.tech](https://rohitraj.tech/en/notes/gemini-computer-use-vs-claude-openai-2026)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-gemini-3-5-flash/)",
+    "[bgr.com](https://www.bgr.com/tech/ditch-siri-for-these-5-ios-compatible-alternatives/)"
+  ],
+  "design_plan": "rng=42; audience=AIDA_checked; hero_lines=2.4; grid_density=grid-auto-flow:dense; labels_swept=yes; button_contrast=AA",
+  "generated_at": "2026-07-04T22:29:12.976936+00:00",
+  "headline": "Super vs ChatGPT \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with ChatGPT",
+    "competitor": "ChatGPT",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs ChatGPT. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "ChatGPT AI agent",
+      "ChatGPT AI assistant",
+      "ChatGPT automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-chatgpt",
+    "title": "Super vs ChatGPT"
+  },
+  "summary": "A fair, practical comparison for people deciding between ChatGPT and Super. ChatGPT is a world\u2011class general assistant and is rapidly adding agentic features. Super is purpose\u2011built for durable computer\u2011use workflows, with a reusable computer-use cache that makes repeated automation faster and cheaper over time."
+}
